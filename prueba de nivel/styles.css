@@ -1,0 +1,83 @@
+*{
+    font-family: 'Poppins', 'sans-serif';
+}
+
+body{
+    margin: 0px;
+    padding: 150px;
+    display: flexbox;
+    align-items: center;
+    justify-content: center;
+}
+
+
+h1{
+    text-align: center;
+    font-size: 65.34px;
+    font-family: 'Poppins', 'sans-serif';
+}
+
+h2{
+    font-size: 50.52px
+}
+
+.lorems{
+    text-align: center;
+
+}
+
+.botton{
+    display: inline-block;
+    justify-content: center;
+
+}
+
+ul li{
+
+    list-style-type: none;
+    display: inline-block;
+    margin: 15px;
+    font-size: 16px;
+    
+
+
+}
+
+.imagenes{
+    display: inline-block
+}
+
+.divtotal{
+    display: block;
+    justify-content: center;
+}
+
+div{
+    align-items: center;
+}
+
+
+footer{
+    background-color: rgb(29, 102, 121) ;
+    color: white;
+    width: auto;
+    height: 245px;
+}
+
+#services{
+    background-color: rgb(230, 247, 247);
+    padding-right: 112px;
+    padding-left: 112px;
+}
+
+.imagen1{
+
+}
+
+.imagen2{
+    margin-left: 50px;
+}
+
+#team{
+    display: inline-block;
+}
